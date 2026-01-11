@@ -5,7 +5,7 @@ This is a super simple lab to test that you have your Amazon EC2 and VSCode setu
 ## Prerequisites
 
 - Python 3.11 or higher
-- A Groq API key (sign up at [https://console.groq.com](https://console.groq.com))
+- A Groq API key (sign up [https://console.groq.com](https://console.groq.com))
 
 ## Setup Instructions
 
