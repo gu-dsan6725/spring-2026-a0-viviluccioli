@@ -49,3 +49,4 @@ output/
 
 # AWS
 .aws/
+.apikey
